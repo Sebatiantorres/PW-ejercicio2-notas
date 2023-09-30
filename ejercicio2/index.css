@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(141, 128, 128) !important;
+}
+
+input {
+    width: 600px !important;
+}
+
+label {
+    font-size: 1.3em;
+}
